@@ -23,7 +23,7 @@ repository               : "jafekl/jafekl.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpeg"
+  avatar           : "profile_square.jpeg"
   name             : "Jan-Felix Klein"
   pronouns         : # example: "she/her"  
   bio              : "Postdoctoral researcher in sustainable production logistics"
