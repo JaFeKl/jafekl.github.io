@@ -1,6 +1,7 @@
 ---
 permalink: /
 title: "About Me"
+layout: archive
 author_profile: true
 redirect_from: 
   - /about/
@@ -11,7 +12,7 @@ I am a postdoctoral researcher in sustainable [production logistics](https://www
 
 
 <div style="display: flex; gap: 2em; margin-top: 2em;">
-  <div style="flex: 1;">
+  <div style="flex: 1; max-width: 300px;">
     <h2>Interests</h2>
     <ul>
     <li>Intralogistics, Production Logistics</li>
@@ -24,7 +25,7 @@ I am a postdoctoral researcher in sustainable [production logistics](https://www
     </ul>
   </div>
   
-  <div style="flex: 1;">
+  <div style="flex: 2;">
     <h2>Education</h2>
     <ul style="list-style: none; padding-left: 0;">
       <li style="margin-bottom: 1.5em;">
