@@ -30,26 +30,26 @@ I am a postdoctoral researcher in sustainable [production logistics](https://www
     <ul style="list-style: none; padding-left: 0;">
       <li style="margin-bottom: 1.5em;">
         <div><i class="fas fa-graduation-cap" aria-hidden="true"></i> <strong>Dr.-Ing. (PhD)</strong></div>
-        <div style="margin-left: 1.5em;"><em>Karlsruhe Institute of Technology, Institute for Material Handling and Logistics</em></div>
+        <div style="margin-left: 1.5em;"><em><a href="https://www.kit.edu/">Karlsruhe Institute of Technology</a>, <a href="https://www.ifl.kit.edu/">Institute for Material Handling and Logistics</a></em></div>
         <ul style="margin-left: 1.5em; margin-top: 0; margin-bottom: 0; padding-top: 0;">
-          <li>Robotics and Interactive Systems</li>
-          <li>Automation in Remanufacturing</li>
+          <li style="margin-bottom: 0;">Robotics and Interactive Systems</li>
+          <li style="margin-bottom: 0;">Automation in Remanufacturing</li>
         </ul>
       </li>
       <li style="margin-bottom: 1.5em;">
-        <div><i class="fas fa-graduation-cap" aria-hidden="true"></i> <strong>.MSc. in Industrial Engineering</strong></div>
-        <div style="margin-left: 1.5em;"><em>University Name</em></div>
+        <div><i class="fas fa-graduation-cap" aria-hidden="true"></i> <strong>M.Sc. in <a href="https://www.uni-due.de/iw/en/study/m-wi.php">Industrial Engineering</a></strong></div>
+        <div style="margin-left: 1.5em;"><em><a href="https://www.uni-due.de/">University of Duisburg-Essen</a></em></div>
         <ul style="margin-left: 1.5em; margin-top: 0; margin-bottom: 0; padding-top: 0;">
-          <li>Mechatronics</li>
-          <li>Production and Operations Management</li>
+          <li style="margin-bottom: 0;">Mechatronics</li>
+          <li style="margin-bottom: 0;">Production and Operations Management</li>
         </ul>
       </li>
       <li style="margin-bottom: 1.5em;">
-        <div><i class="fas fa-graduation-cap" aria-hidden="true"></i> <strong>B.Sc. in Industrial Engineering</strong></div>
-        <div style="margin-left: 1.5em;"><em>University of Duisburg-Essen</em></div>
+        <div><i class="fas fa-graduation-cap" aria-hidden="true"></i> <strong>B.Sc. in <a href="https://www.uni-due.de/iw/en/study/b-wi.php">Industrial Engineering</a></strong></div>
+        <div style="margin-left: 1.5em;"><em><a href="https://www.uni-due.de/">University of Duisburg-Essen</a></em></div>
         <ul style="margin-left: 1.5em; margin-top: 0; margin-bottom: 0; padding-top: 0;">
-          <li>Mechatronics</li>
-          <li>International Automotive Management</li>
+          <li style="margin-bottom: 0;">Mechatronics</li>
+          <li style="margin-bottom: 0;">International Automotive Management</li>
         </ul>
       </li>
     </ul>
