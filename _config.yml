@@ -23,28 +23,28 @@ repository               : "jafekl/jafekl.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "profile.jpg"
+  name             : "Jan-Felix Klein"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Brivellnägen 68, K318, 11428 Stockholm, Sweden"
+  bio              : "Postdoctoral research in sustainable production logistics"
+  location         : "KTH Industrial Production"
   location_link    : "https://maps.app.goo.gl/FRg4iq1VKVxJpZib9"
-  employer         : "Red Brick University"
+  employer         : "KTH Royal Institute of Technology"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "jfklein@kth.se" 
 
   # Academic websites
-  academia         : # URL
+  academia         : "https://kth.se/profile/jfklein" # URL - Update with the correct link to your profile
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=W5ORghcAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-3704-9567"
   semantic         : # URL
   ssrn             : # URL
   pubmed           : # URL
-  researchgate     : # URL
-  scopus           : # URL
+  researchgate     : "https://www.researchgate.net/profile/Jan-Felix-Klein"
+  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=57413621000"
   zotero           : # URL
 
 
